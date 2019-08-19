@@ -1,5 +1,15 @@
 # Lung Cancer Nodule Repsentation
 
+##TO-Do
+-3d neural network switch 
+-confirm accuracy
+-area under precission recall curve
+-extract more data
+-other things you can predict(lobulation sphericity)
+-build smaller network 
+
+
+
 ## Introduction
 
 Representation Learning through medical imaging of chest
