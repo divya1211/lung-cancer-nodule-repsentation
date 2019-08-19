@@ -1,6 +1,6 @@
 # Lung Cancer Nodule Repsentation
 
-##TO-Do
+## TO-Do
 -3d neural network switch 
 -confirm accuracy
 -area under precission recall curve
