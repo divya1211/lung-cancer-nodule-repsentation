@@ -1,0 +1,21 @@
+Epochs: 0, i = 14, Loss = 1.4822059869766235
+Epoch: 0, Accuracy: 25.49019607843137
+Epochs: 1, i = 14, Loss = 1.3453439474105835
+Epoch: 1, Accuracy: 31.372549019607842
+Epochs: 2, i = 14, Loss = 1.486006736755371
+Epoch: 2, Accuracy: 35.294117647058826
+Epochs: 3, i = 14, Loss = 1.4308935403823853
+Epoch: 3, Accuracy: 33.333333333333336
+Epochs: 4, i = 14, Loss = 1.5075453519821167
+Epoch: 4, Accuracy: 35.294117647058826
+Epochs: 5, i = 14, Loss = 1.114607810974121
+Epoch: 5, Accuracy: 35.294117647058826
+Epochs: 6, i = 14, Loss = 1.2452398538589478
+Epoch: 6, Accuracy: 25.49019607843137
+Epochs: 7, i = 14, Loss = 1.0627626180648804
+Epoch: 7, Accuracy: 37.254901960784316
+Epochs: 8, i = 14, Loss = 1.3637892007827759
+Epoch: 8, Accuracy: 35.294117647058826
+Epochs: 9, i = 14, Loss = 1.3198884725570679
+Epoch: 9, Accuracy: 35.294117647058826
+Finished Training

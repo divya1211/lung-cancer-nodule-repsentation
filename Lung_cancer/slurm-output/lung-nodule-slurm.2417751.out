@@ -1,0 +1,5 @@
+0
+Traceback (most recent call last):
+  File "extract_nodule.py", line 92, in <module>
+    print(i, nodule.shape, file=f)
+NameError: name 'i' is not defined

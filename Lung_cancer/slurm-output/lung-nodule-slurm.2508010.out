@@ -1,0 +1,20 @@
+Processing patient 0.
+Processing patient 1.
+Processing patient 2.
+Processing patient 3.
+Skipping 3 without malignancy.
+Processing patient 4.
+Skipping 4 without malignancy.
+Processing patient 5.
+Processing patient 6.
+Skipping 6 without malignancy.
+Processing patient 7.
+Processing patient 8.
+Skipping 8 without malignancy.
+Processing patient 9.
+Processing patient 10.
+Skipping 10 without malignancy.
+Traceback (most recent call last):
+  File "extract_nodule.py", line 118, in <module>
+    malignancies = torch.cat(malignancies)
+RuntimeError: zero-dimensional tensor (at position 0) cannot be concatenated

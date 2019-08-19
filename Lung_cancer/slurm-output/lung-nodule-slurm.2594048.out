@@ -1,0 +1,109 @@
+Processing patient 0.
+tensor([0, 5, 8])
+Processing patient 1.
+tensor([1, 6, 8])
+Processing patient 2.
+tensor([ 7, 16, 18])
+Processing patient 3.
+Skipping 3 without malignancy.
+Processing patient 4.
+Skipping 4 without malignancy.
+Processing patient 5.
+tensor([2, 4, 4])
+Processing patient 6.
+Skipping 6 without malignancy.
+Processing patient 7.
+tensor([ 8, 11, 11])
+Processing patient 8.
+Skipping 8 without malignancy.
+Processing patient 9.
+tensor([5, 4, 6])
+Processing patient 10.
+Skipping 10 without malignancy.
+Processing patient 11.
+Skipping 11 without malignancy.
+Processing patient 12.
+Skipping 12 without malignancy.
+Processing patient 13.
+tensor([ 2, 18, 20])
+Processing patient 14.
+Skipping 14 without malignancy.
+Processing patient 15.
+Skipping 15 without malignancy.
+Processing patient 16.
+tensor([ 2, 10,  9])
+Processing patient 17.
+Skipping 17 without malignancy.
+Processing patient 18.
+tensor([3, 7, 9])
+Processing patient 19.
+Skipping 19 without malignancy.
+Processing patient 20.
+Skipping 20 without malignancy.
+Processing patient 21.
+tensor([ 5, 21, 21])
+Processing patient 22.
+tensor([ 3, 10,  7])
+Processing patient 23.
+tensor([10, 31, 26])
+Processing patient 24.
+Skipping 24 without malignancy.
+Processing patient 25.
+tensor([5, 6, 5])
+Processing patient 26.
+Skipping 26 without malignancy.
+Processing patient 27.
+Skipping 27 without malignancy.
+Processing patient 28.
+tensor([ 6, 38, 25])
+Processing patient 29.
+tensor([1, 6, 5])
+Processing patient 30.
+Skipping 30 without malignancy.
+Processing patient 31.
+tensor([ 7, 15, 14])
+Processing patient 32.
+tensor([2, 4, 6])
+Processing patient 33.
+Skipping 33 without malignancy.
+Processing patient 34.
+Skipping 34 without malignancy.
+Processing patient 35.
+tensor([3, 6, 3])
+Processing patient 36.
+tensor([2, 6, 5])
+Processing patient 37.
+tensor([ 1,  9, 11])
+Processing patient 38.
+tensor([0, 6, 6])
+Processing patient 39.
+tensor([4, 6, 5])
+Processing patient 40.
+tensor([4, 9, 9])
+Processing patient 41.
+tensor([12, 25, 29])
+Processing patient 42.
+Skipping 42 without malignancy.
+Processing patient 43.
+tensor([2, 8, 6])
+Processing patient 44.
+Skipping 44 without malignancy.
+Processing patient 45.
+Skipping 45 without malignancy.
+Processing patient 46.
+Skipping 46 without malignancy.
+Processing patient 47.
+Skipping 47 without malignancy.
+Processing patient 48.
+Skipping 48 without malignancy.
+Processing patient 49.
+tensor([ 4, 10,  9])
+Processing patient 50.
+Skipping 50 without malignancy.
+Processing patient 51.
+tensor([10, 29, 32])
+Processing patient 52.
+tensor([0, 6, 5])
+Processing patient 53.
+Skipping 53 without malignancy.
+slurmstepd: error: *** JOB 2594048 ON gpu-31 CANCELLED AT 2019-08-16T21:36:46 ***

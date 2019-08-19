@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "extract_nodule.py", line 61, in <module>
+    nodules = torch.cat(nodules)
+RuntimeError: invalid argument 0: Sizes of tensors must match except in dimension 0. Got 0 and 64 in dimension 1 at /pytorch/aten/src/TH/generic/THTensor.cpp:711

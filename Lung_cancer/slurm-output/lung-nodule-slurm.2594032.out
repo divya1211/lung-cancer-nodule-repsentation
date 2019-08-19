@@ -1,0 +1,201 @@
+Epochs: 0, i = 14, Loss = 1.5557756423950195
+Epoch: 0, Accuracy: 23.529411764705884
+Epochs: 1, i = 14, Loss = 1.3901163339614868
+Epoch: 1, Accuracy: 17.647058823529413
+Epochs: 2, i = 14, Loss = 1.4843412637710571
+Epoch: 2, Accuracy: 25.49019607843137
+Epochs: 3, i = 14, Loss = 1.3473016023635864
+Epoch: 3, Accuracy: 29.41176470588235
+Epochs: 4, i = 14, Loss = 1.2738548517227173
+Epoch: 4, Accuracy: 31.372549019607842
+Epochs: 5, i = 14, Loss = 1.281765103340149
+Epoch: 5, Accuracy: 25.49019607843137
+Epochs: 6, i = 14, Loss = 1.2911131381988525
+Epoch: 6, Accuracy: 41.1764705882353
+Epochs: 7, i = 14, Loss = 1.356998085975647
+Epoch: 7, Accuracy: 31.372549019607842
+Epochs: 8, i = 14, Loss = 1.380821704864502
+Epoch: 8, Accuracy: 43.13725490196079
+Epochs: 9, i = 14, Loss = 1.4928665161132812
+Epoch: 9, Accuracy: 33.333333333333336
+Epochs: 10, i = 14, Loss = 0.9508142471313477
+Epoch: 10, Accuracy: 35.294117647058826
+Epochs: 11, i = 14, Loss = 1.2571576833724976
+Epoch: 11, Accuracy: 31.372549019607842
+Epochs: 12, i = 14, Loss = 0.9434352517127991
+Epoch: 12, Accuracy: 41.1764705882353
+Epochs: 13, i = 14, Loss = 1.214409351348877
+Epoch: 13, Accuracy: 39.21568627450981
+Epochs: 14, i = 14, Loss = 1.0394569635391235
+Epoch: 14, Accuracy: 39.21568627450981
+Epochs: 15, i = 14, Loss = 0.8294535279273987
+Epoch: 15, Accuracy: 33.333333333333336
+Epochs: 16, i = 14, Loss = 0.9723896384239197
+Epoch: 16, Accuracy: 45.09803921568628
+Epochs: 17, i = 14, Loss = 1.2623014450073242
+Epoch: 17, Accuracy: 37.254901960784316
+Epochs: 18, i = 14, Loss = 1.1664317846298218
+Epoch: 18, Accuracy: 35.294117647058826
+Epochs: 19, i = 14, Loss = 0.9076898694038391
+Epoch: 19, Accuracy: 33.333333333333336
+Epochs: 20, i = 14, Loss = 0.8010835647583008
+Epoch: 20, Accuracy: 35.294117647058826
+Epochs: 21, i = 14, Loss = 0.9529552459716797
+Epoch: 21, Accuracy: 39.21568627450981
+Epochs: 22, i = 14, Loss = 0.8578841686248779
+Epoch: 22, Accuracy: 27.45098039215686
+Epochs: 23, i = 14, Loss = 0.761832058429718
+Epoch: 23, Accuracy: 35.294117647058826
+Epochs: 24, i = 14, Loss = 0.8198966383934021
+Epoch: 24, Accuracy: 37.254901960784316
+Epochs: 25, i = 14, Loss = 0.9308702349662781
+Epoch: 25, Accuracy: 37.254901960784316
+Epochs: 26, i = 14, Loss = 1.003444790840149
+Epoch: 26, Accuracy: 37.254901960784316
+Epochs: 27, i = 14, Loss = 0.7728347182273865
+Epoch: 27, Accuracy: 37.254901960784316
+Epochs: 28, i = 14, Loss = 0.7271454930305481
+Epoch: 28, Accuracy: 39.21568627450981
+Epochs: 29, i = 14, Loss = 0.9889578223228455
+Epoch: 29, Accuracy: 33.333333333333336
+Epochs: 30, i = 14, Loss = 0.736431896686554
+Epoch: 30, Accuracy: 31.372549019607842
+Epochs: 31, i = 14, Loss = 0.6040483117103577
+Epoch: 31, Accuracy: 37.254901960784316
+Epochs: 32, i = 14, Loss = 0.6087895631790161
+Epoch: 32, Accuracy: 29.41176470588235
+Epochs: 33, i = 14, Loss = 0.8941656947135925
+Epoch: 33, Accuracy: 43.13725490196079
+Epochs: 34, i = 14, Loss = 0.6989671587944031
+Epoch: 34, Accuracy: 41.1764705882353
+Epochs: 35, i = 14, Loss = 1.0330079793930054
+Epoch: 35, Accuracy: 37.254901960784316
+Epochs: 36, i = 14, Loss = 0.6345923542976379
+Epoch: 36, Accuracy: 35.294117647058826
+Epochs: 37, i = 14, Loss = 0.6940019726753235
+Epoch: 37, Accuracy: 37.254901960784316
+Epochs: 38, i = 14, Loss = 0.3933573067188263
+Epoch: 38, Accuracy: 37.254901960784316
+Epochs: 39, i = 14, Loss = 0.5863614678382874
+Epoch: 39, Accuracy: 41.1764705882353
+Epochs: 40, i = 14, Loss = 0.9680545330047607
+Epoch: 40, Accuracy: 37.254901960784316
+Epochs: 41, i = 14, Loss = 0.5568739771842957
+Epoch: 41, Accuracy: 33.333333333333336
+Epochs: 42, i = 14, Loss = 0.5890886783599854
+Epoch: 42, Accuracy: 39.21568627450981
+Epochs: 43, i = 14, Loss = 1.0570989847183228
+Epoch: 43, Accuracy: 33.333333333333336
+Epochs: 44, i = 14, Loss = 0.9247223734855652
+Epoch: 44, Accuracy: 39.21568627450981
+Epochs: 45, i = 14, Loss = 0.9488866329193115
+Epoch: 45, Accuracy: 35.294117647058826
+Epochs: 46, i = 14, Loss = 0.6033594608306885
+Epoch: 46, Accuracy: 35.294117647058826
+Epochs: 47, i = 14, Loss = 0.5448652505874634
+Epoch: 47, Accuracy: 37.254901960784316
+Epochs: 48, i = 14, Loss = 0.34073755145072937
+Epoch: 48, Accuracy: 39.21568627450981
+Epochs: 49, i = 14, Loss = 0.6022241711616516
+Epoch: 49, Accuracy: 29.41176470588235
+Epochs: 50, i = 14, Loss = 0.7336825728416443
+Epoch: 50, Accuracy: 29.41176470588235
+Epochs: 51, i = 14, Loss = 1.1200284957885742
+Epoch: 51, Accuracy: 39.21568627450981
+Epochs: 52, i = 14, Loss = 0.31572315096855164
+Epoch: 52, Accuracy: 27.45098039215686
+Epochs: 53, i = 14, Loss = 0.683972179889679
+Epoch: 53, Accuracy: 35.294117647058826
+Epochs: 54, i = 14, Loss = 0.8613558411598206
+Epoch: 54, Accuracy: 29.41176470588235
+Epochs: 55, i = 14, Loss = 1.061779499053955
+Epoch: 55, Accuracy: 31.372549019607842
+Epochs: 56, i = 14, Loss = 0.9320357441902161
+Epoch: 56, Accuracy: 37.254901960784316
+Epochs: 57, i = 14, Loss = 0.34496021270751953
+Epoch: 57, Accuracy: 31.372549019607842
+Epochs: 58, i = 14, Loss = 0.6465855240821838
+Epoch: 58, Accuracy: 35.294117647058826
+Epochs: 59, i = 14, Loss = 0.5657607913017273
+Epoch: 59, Accuracy: 33.333333333333336
+Epochs: 60, i = 14, Loss = 0.2846219837665558
+Epoch: 60, Accuracy: 41.1764705882353
+Epochs: 61, i = 14, Loss = 0.2722429633140564
+Epoch: 61, Accuracy: 35.294117647058826
+Epochs: 62, i = 14, Loss = 0.4606325924396515
+Epoch: 62, Accuracy: 33.333333333333336
+Epochs: 63, i = 14, Loss = 0.31138771772384644
+Epoch: 63, Accuracy: 29.41176470588235
+Epochs: 64, i = 14, Loss = 0.2915663421154022
+Epoch: 64, Accuracy: 31.372549019607842
+Epochs: 65, i = 14, Loss = 0.8755136132240295
+Epoch: 65, Accuracy: 35.294117647058826
+Epochs: 66, i = 14, Loss = 0.39499422907829285
+Epoch: 66, Accuracy: 33.333333333333336
+Epochs: 67, i = 14, Loss = 0.3034845292568207
+Epoch: 67, Accuracy: 25.49019607843137
+Epochs: 68, i = 14, Loss = 0.40010949969291687
+Epoch: 68, Accuracy: 35.294117647058826
+Epochs: 69, i = 14, Loss = 0.47632551193237305
+Epoch: 69, Accuracy: 41.1764705882353
+Epochs: 70, i = 14, Loss = 0.18476401269435883
+Epoch: 70, Accuracy: 33.333333333333336
+Epochs: 71, i = 14, Loss = 0.32393667101860046
+Epoch: 71, Accuracy: 29.41176470588235
+Epochs: 72, i = 14, Loss = 0.4124179780483246
+Epoch: 72, Accuracy: 29.41176470588235
+Epochs: 73, i = 14, Loss = 0.27691468596458435
+Epoch: 73, Accuracy: 35.294117647058826
+Epochs: 74, i = 14, Loss = 0.4744997024536133
+Epoch: 74, Accuracy: 29.41176470588235
+Epochs: 75, i = 14, Loss = 0.7460874915122986
+Epoch: 75, Accuracy: 37.254901960784316
+Epochs: 76, i = 14, Loss = 0.2063167542219162
+Epoch: 76, Accuracy: 33.333333333333336
+Epochs: 77, i = 14, Loss = 1.2672604322433472
+Epoch: 77, Accuracy: 39.21568627450981
+Epochs: 78, i = 14, Loss = 0.6390774250030518
+Epoch: 78, Accuracy: 31.372549019607842
+Epochs: 79, i = 14, Loss = 0.1926703006029129
+Epoch: 79, Accuracy: 29.41176470588235
+Epochs: 80, i = 14, Loss = 0.8862501978874207
+Epoch: 80, Accuracy: 35.294117647058826
+Epochs: 81, i = 14, Loss = 0.8714210391044617
+Epoch: 81, Accuracy: 35.294117647058826
+Epochs: 82, i = 14, Loss = 0.44730499386787415
+Epoch: 82, Accuracy: 39.21568627450981
+Epochs: 83, i = 14, Loss = 0.7171810269355774
+Epoch: 83, Accuracy: 41.1764705882353
+Epochs: 84, i = 14, Loss = 0.29462671279907227
+Epoch: 84, Accuracy: 31.372549019607842
+Epochs: 85, i = 14, Loss = 0.8972535729408264
+Epoch: 85, Accuracy: 37.254901960784316
+Epochs: 86, i = 14, Loss = 0.14563168585300446
+Epoch: 86, Accuracy: 35.294117647058826
+Epochs: 87, i = 14, Loss = 0.255433589220047
+Epoch: 87, Accuracy: 29.41176470588235
+Epochs: 88, i = 14, Loss = 0.20468778908252716
+Epoch: 88, Accuracy: 39.21568627450981
+Epochs: 89, i = 14, Loss = 0.9118315577507019
+Epoch: 89, Accuracy: 35.294117647058826
+Epochs: 90, i = 14, Loss = 0.1945885270833969
+Epoch: 90, Accuracy: 25.49019607843137
+Epochs: 91, i = 14, Loss = 0.2718116343021393
+Epoch: 91, Accuracy: 37.254901960784316
+Epochs: 92, i = 14, Loss = 0.3926244080066681
+Epoch: 92, Accuracy: 33.333333333333336
+Epochs: 93, i = 14, Loss = 0.5510064959526062
+Epoch: 93, Accuracy: 37.254901960784316
+Epochs: 94, i = 14, Loss = 0.10031966120004654
+Epoch: 94, Accuracy: 37.254901960784316
+Epochs: 95, i = 14, Loss = 0.21001093089580536
+Epoch: 95, Accuracy: 33.333333333333336
+Epochs: 96, i = 14, Loss = 0.2260589748620987
+Epoch: 96, Accuracy: 39.21568627450981
+Epochs: 97, i = 14, Loss = 0.5041442513465881
+Epoch: 97, Accuracy: 31.372549019607842
+Epochs: 98, i = 14, Loss = 0.41851985454559326
+Epoch: 98, Accuracy: 33.333333333333336
+Epochs: 99, i = 14, Loss = 0.30830997228622437
+Epoch: 99, Accuracy: 23.529411764705884
+Finished Training
