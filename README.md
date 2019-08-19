@@ -51,4 +51,4 @@ AMDIM also introduced a concept of shared context which can usefully be exploite
 Tasks
 If we imagine the nodule to be a cube of dimension 64*64*64 and task at hand being to produce a good representation of this cube. If this cube were to be sliced into smaller cubes or voxels. Then the task gets subdivided into learning a good representation of each voxel.  
 
-![](/Users/josephinejoseph/Downloads/diag.png)
+![](diag.png)
